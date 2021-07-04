@@ -38,16 +38,19 @@ Here are some useful `git` commands.
 If you are not familiar with the command line, you may need to take a short online course to familiarize yourself. 
 You will only need to know some basic commands. Here are some commands that are used often.  
 
-| command | what it does |  
-| ---- | --- |
-|`cd my-folder`  |  change directory to `my-folder/` | 
-| `cd -` | go back |  
-| `cd ..` | go to the parent directory | 
-| `pwd` | show current directory | 
-| `ls` | show the contents (files and folders) of the current directory | 
+| command (linux/mac) | what it does | command (windows) |
+| ---- | --- | --- | 
+|`cd my-folder`  |  change directory to `my-folder/` | `cd my-folder` |
+| `cd -` | go back |  |
+| `cd ..` | go to the parent directory | `cd ..` |
+| `cd ~` | go to *home* directory | |
+| `pwd` | show current directory | `cd` |
+| `ls` | show the contents (files and folders) of the current directory | `dir` |
+| `ls -alt` | list the contents ordered in time | |
+| `mkdir my-new-folder` | make a new directory (folder) called `my-new-folder` | `mkdir my-new-folder` |  
 
 #### Linux terminal on a Windows machine 
-If you have a windows machine, you can install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to have a linux terminal (unless you are already familiar and comfortable with windows terminal)
+If you have a windows machine, you can install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to have a linux terminal (unless you are already familiar and comfortable with windows terminal)  
 
 
 ### Python 
