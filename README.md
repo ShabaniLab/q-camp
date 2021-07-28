@@ -78,7 +78,10 @@ pip install matplotlib
 ```
 
 ### qiskit 
-Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/getting_started.html). 
+Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/getting_started.html).  
+There are lots of tutorials availble on qiskit: 
+* qiskit [textbook](https://qiskit.org/textbook/preface.html)
+* qiskit tutorials on [github](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials)
 
 ### jupyter
 To install `jupyter` you can either use `conda`. 
