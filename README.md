@@ -1,6 +1,5 @@
-# Quantum Camp 2021
-Resources for the summer camp at NYU. Summer of 2021, [ShabaniLab](https://shabanilab.com).   
-The program starts on Monday June 28 and ends on Friday August 20. 
+# Quantum Camp 2022
+Resources for the summer camp at NYU [ShabaniLab](https://shabanilab.com).   
 
 ## Intro
 Welcome to the 2021 summer quantum camp. In this summer camp we will be coding a lot to learn about quantum computing, visualizing the concepts, and designing and implementing quantum circuits on quantum hardware. 
@@ -78,7 +77,7 @@ pip install matplotlib
 ```
 
 ### qiskit 
-Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/getting_started.html).  
+Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/stable/0.19/install.html).  
 There are lots of tutorials availble on qiskit: 
 * qiskit [textbook](https://qiskit.org/textbook/preface.html)
 * qiskit tutorials on [github](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials)
