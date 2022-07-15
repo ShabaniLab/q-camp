@@ -2,7 +2,7 @@
 Resources for the summer camp at NYU [ShabaniLab](https://shabanilab.com).   
 
 ## Intro
-Welcome to the 2021 summer quantum camp. In this summer camp we will be coding a lot to learn about quantum computing, visualizing the concepts, and designing and implementing quantum circuits on quantum hardware. 
+Welcome to the 2022 summer quantum camp. In this summer camp we will be coding a lot to learn about quantum computing, visualizing the concepts, and designing and implementing quantum circuits on quantum hardware. 
 There are some basic tools that we need to learn beforehand. 
 Along with each week's lecture there is a code section in which we try to learn about how to implement problems in code, solve them, and plot the results. 
 There are some basic tools that we need to learn beforehand.  
