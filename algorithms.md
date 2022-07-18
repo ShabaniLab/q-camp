@@ -5,10 +5,16 @@ Here is a list of quantum algorithm you can choose from. Ideally these projects 
 ## Quantum Key Distribution
 * [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution): is a quantum algorithm that could be used for secure communication between two parties (Alice and Bob) where there is a third party (Charlie) evesdropping on the messages.  
 [qiskit example](https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html)  
+
+## Quantum money
 * Quantum Money: is based on the *[no cloning](https://en.wikipedia.org/wiki/No-cloning_theorem)* theorem which allows one to produce non-forgeable documents such as bills or id's.  
 [Shor's slides](https://simons.berkeley.edu/sites/default/files/docs/15601/qmoney-berkeley.pdf)   
+
+## Quantum teleportation 
 * [Quantum Teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation): is an algorithm for transferring a generic quantum state (e.g. a qubit state). It is closely related to the [no-cloining theorem](https://en.wikipedia.org/wiki/No-cloning_theorem) in quantum computing.  
 [qiskit example](https://qiskit.org/textbook/ch-algorithms/teleportation.html)  
+
+## Shor's algorithm 
 * [Shor's algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm): is a quantum algorithm for factoring an integer number into it's prime factors. This algorithm promises an exponential speed up over classical factoring algorithms.  
 [qiskit example](https://qiskit.org/textbook/ch-algorithms/shor.html). Also check out [this article](https://rajkk1.medium.com/finding-the-prime-factors-of-a-large-number-efficiently-with-the-help-of-shors-algorithm-e731f0aadff5). 
 
@@ -20,6 +26,10 @@ Here is a list of quantum algorithm you can choose from. Ideally these projects 
 * [Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) is an algorithm used for finding optimal solutions in combinatorial problems.   
 A set of problems that can be solved using QAOA algorithm is called [Quadratic Unconstrained Binary Optimization](https://en.wikipedia.org/wiki/Quadratic_unconstrained_binary_optimization). Examples of these problems are maximum cut, graph coloring, and the partition problem.  
 [qiskit example](https://qiskit.org/documentation/tutorials/algorithms/05_qaoa.html) on graph partitioning.  
+other ideas: [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
+
+## Quantum Machine Learnning 
+*[qiskit tutorials](https://qiskit.org/documentation/machine-learning/tutorials/index.html)
 
 # What to do
 
