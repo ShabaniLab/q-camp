@@ -10,6 +10,11 @@ Here is a list of quantum algorithm you can choose from. Ideally these projects 
 * Quantum Money: is based on the *[no cloning](https://en.wikipedia.org/wiki/No-cloning_theorem)* theorem which allows one to produce non-forgeable documents such as bills or id's.  
 [Shor's slides](https://simons.berkeley.edu/sites/default/files/docs/15601/qmoney-berkeley.pdf)   
 
+## Quantum finance 
+Here are two review articles: 
+* [A survey of quantum computing for finance](https://arxiv.org/abs/2201.02773)
+* [Prospects and challenges of quantum finance](https://arxiv.org/abs/2011.06492)
+
 ## Quantum teleportation 
 * [Quantum Teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation): is an algorithm for transferring a generic quantum state (e.g. a qubit state). It is closely related to the [no-cloining theorem](https://en.wikipedia.org/wiki/No-cloning_theorem) in quantum computing.  
 [qiskit example](https://qiskit.org/textbook/ch-algorithms/teleportation.html)  
@@ -29,7 +34,7 @@ A set of problems that can be solved using QAOA algorithm is called [Quadratic U
 other ideas: [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 
 ## Quantum Machine Learnning 
-*[qiskit tutorials](https://qiskit.org/documentation/machine-learning/tutorials/index.html)
+* [qiskit tutorials](https://qiskit.org/documentation/machine-learning/tutorials/index.html)
 
 # What to do
 
