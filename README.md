@@ -77,7 +77,9 @@ pip install matplotlib
 ```
 
 ### qiskit 
-Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/stable/0.19/install.html).  
+Next step is to install `qiskit` by following the instructions on [qiskit website](https://qiskit.org/documentation/stable/0.19/install.html).   
+**Note:** make sure you replace `name_of_my_env` with something more meaningful (e.g. qcamp).  
+**Note:** make sure everything you install (e.g. python, qiskit, and jupyter) are in the same conda environment. For that you would need to activate the right environment beforehand by running, for instance, `conda activate qcamp` in your terminal.   
 There are lots of tutorials availble on qiskit: 
 * qiskit [textbook](https://qiskit.org/textbook/preface.html)
 * qiskit tutorials on [github](https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials)
