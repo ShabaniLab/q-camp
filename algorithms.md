@@ -26,6 +26,7 @@ Here are two review articles:
 ## Variational Quantum Eigensolver 
 * Variational Quantum Eigensolver: is a hybrid classical-quantum algorithm that could be used for optimization problems where you want to find the minimum or maximum of a function. It has broad applications in quantum computing since several combinatorial problems (e.g. graph partitioning) as well as physics problems (i.e. finding the lowest energy level of a system) can be solved using this algorithm.  
 [qiskit example: Simulating molecules using VQE](https://qiskit.org/textbook/ch-applications/vqe-molecules.html)  
+[Hardware-efficient VQE for small molecules](https://arxiv.org/abs/1704.05018)
 
 ## Quantum Approximate Optimization Algorithm 
 * [Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) is an algorithm used for finding optimal solutions in combinatorial problems.   
