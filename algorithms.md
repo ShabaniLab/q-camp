@@ -36,6 +36,7 @@ other ideas: [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 
 ## Quantum Machine Learnning 
 * [qiskit tutorials](https://qiskit.org/documentation/machine-learning/tutorials/index.html)
+* [Quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)
 
 # What to do
 
