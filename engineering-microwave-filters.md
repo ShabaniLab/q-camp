@@ -17,7 +17,7 @@ In this project, the goal is to design, implement, and measure a band-pass filte
 ### technical specifications
 qubit frequency: `f_0 = 6 GHz`  
 bandwidth: `0.3 GHz`  
-copper board's thickness: `3 mm`  
+copper board's thickness: `1.6 mm`  
 copper coat's thickness: `0.5 mm`    
 milling machine's endmill size: `1/64 in`
 
@@ -27,18 +27,21 @@ Start by reading papers number 3 and 4.
 Use chapters 3 and 8 of Pozar's book for reference.
 
 ### 2. Find the lumped circuit elements for the filter 
-What is the circuit configuration: pi, T, etc
+What is the circuit configuration: pi, T, etc? What are the circuit components (inductors, capacitors) and where are they placed? 
 
 ### 3. Find the equivalent coplanar waveguide structure 
 Calculate the geometry such as size of the gaps, width of the middle strip, etc.  
 Write a code that takes the technical specifications as input and calculates all the relevant info about geometry of the waveguide.  
 
 ### 4. Design the printed circuit board (PCB)
-Info about the software will be provided later.  
-Don't forget to add [SMA](https://en.wikipedia.org/wiki/SMA_connector) connectors to your design. 
+To design the coplanar waveguide for a PCB we are going to use the [EAGLE](https://www.autodesk.com/products/eagle/free-download) software from AutoDesk. You would need to make an [educational account](https://www.autodesk.com/education/edu-software) on AutoDesk website.  
+**Design considerations**  
+* The working space of the milling machine is 5.5 by 4.5 inches. You would not need that whole area. Try to make your design as compact as possible.  
+* The material we are going to use for the circuit board is the *FR-1 copper-clad double-sided 4 by 6 inches board*. You might need to cut the board if it did not fit on the milling machine platform.  
+* Don't forget to add [SMA](https://en.wikipedia.org/wiki/SMA_connector) connectors to your design. 
 
 ### 5. Build the printed circuit board using the milling machine 
-Info about the operation of the machine will be provided later.  
+The copper board and the SMA connectors will be provided. Here are some info about the operation of the milling machine.  
 [Here](https://core-electronics.com.au/othermill-compact-precision-cnc-pcb-milling-machine.html) are the specs of the machine  
 https://www.scu.edu/engineering/makerlab/tools--equipment/othermill-cnc/  
 https://www.youtube.com/watch?v=8LUEU7ECTu4  
@@ -50,8 +53,11 @@ soldering tutorial video will be posted.
 manual will be provided later. 
 
 ### 8. Analyze the data 
+What do you observe in the frequency response of the filter? 
 
 ### 9. Prepare a report + presentation 
+You will add your contributions to the project to your final individual report.  
+In addition, each group needs to prepare a presentation on their own design, build, and measurement for the final day. 
 
 ## Resources 
 1. **Microwave Engineering** by David M Pozar 
