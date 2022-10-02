@@ -24,7 +24,8 @@ milling machine's endmill size: `1/64 in`
 ## What to do 
 ### 1. Read about filters and coplanar waveguide 
 Start by reading papers number 3 and 4.  
-Use chapters 3 and 8 of Pozar's book for reference.
+Use chapters 3 and 8 of Pozar's book for reference.  
+* Read about [Phasors](https://en.wikipedia.org/wiki/Phasor). 
 
 ### 2. Find the lumped circuit elements for the filter 
 What is the circuit configuration: pi, T, etc? What are the circuit components (inductors, capacitors) and where are they placed? 
