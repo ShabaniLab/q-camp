@@ -1,4 +1,4 @@
-# Quantum Camp 2022
+# Quantum Camp 2023
 Resources for the summer camp at NYU [ShabaniLab](https://shabanilab.com).   
 
 ## Intro
